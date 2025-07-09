@@ -13,15 +13,6 @@
 
 - 📫 How to reach me **lingampellisrinivas3036@gmail.com**
 
-Main
-- https://chatgpt.com/share/686df4ca-387c-8000-9e4c-5e13636bed2f
-
-  test
-  https://chatgpt.com/share/686df506-ba4c-8000-b351-8e3d1bf60ede
-
-  dynamo -s3-lambda
-  https://chatgpt.com/share/686df4ca-387c-8000-9e4c-5e13636bed2f
-
 - ⚡ Fun fact **Techie guy**
 
 <h3 align="left">Connect with me:</h3>
