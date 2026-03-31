@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://srinivas-lingampelli-portfolio.vercel.app/](https://srinivas-lingampelli-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://srinivas-lingampelli-portfolio-five.vercel.app//](https://srinivas-lingampelli-portfolio-five.vercel.app//)
 
 - 💬 Ask me about **JAVA , MERN, Deep Learning ,LLM , Web Technologies**
 
