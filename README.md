@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas lingampelli</h1>
-<h3 align="center">👨‍💻 Final Year CSE Student | 💡 Tech Enthusiast | 🌍 Open Source Contributor 🚀 Passionate about building impactful tech solutions, I specialize in MERN stack, Java, Python, SQL, and DevOps tools like Docker 🐳, Maven, Jenkins⚙️, Git/GitHub 🛠️, and AWS ☁️. 🤖 I’m especially interested in AI/ML 🤖 and Large Language Models (LLMs), and love solving real-world problems using cutting-edge technologies. 🤝 Always eager to learn, collaborate, and contribute to open-source projects that make a meaningful difference in the world</h3>
+<h3 align="center">💡 Tech Enthusiast | 🌍 Open Source Contributor 🚀 Passionate about building impactful tech solutions, I specialize in MERN stack, Java, Python, SQL, and DevOps tools like Docker 🐳, Maven, Jenkins⚙️, Git/GitHub 🛠️, and AWS ☁️. 🤖 I’m especially interested in AI/ML 🤖 and Large Language Models (LLMs), and love solving real-world problems using cutting-edge technologies. 🤝 Always eager to learn, collaborate, and contribute to open-source projects that make a meaningful difference in the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingampellisri&label=Profile%20views&color=0e75b6&style=flat" alt="lingampellisri" /> </p>
 
